@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# included additional exclusions
+target/
+src/.DS_Store
+src/main/.DS_Store
+.DS_Store
+HELP.md
+mvnw
